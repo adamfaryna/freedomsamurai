@@ -17,7 +17,7 @@
 <meta property="og:url" content="http://yoursite.com/Second-post">
 <meta property="og:site_name" content="Freedom Samurai">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2019-01-05T17:32:39.000Z">
+<meta property="og:updated_time" content="2019-01-05T18:20:22.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Second post">
 
@@ -135,7 +135,9 @@
     
     
     <div class="columns is-mobile is-multiline article-nav">
-        <span class="column is-12-mobile is-half-desktop is-hidden-mobile article-nav-prev">
+        <span class="column is-12-mobile is-half-desktop  article-nav-prev">
+            
+            <a href="/hello-world">Hello World</a>
             
         </span>
         <span class="column is-12-mobile is-half-desktop  article-nav-next">
